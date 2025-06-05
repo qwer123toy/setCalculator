@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>🧮 세트 계산기 시스템</h1>
-</div>
+![img](https://github.com/user-attachments/assets/56ae887a-f9db-4a58-84fa-e4ec9736b0bd)
+
 
 <br>
 
@@ -139,7 +138,5 @@ setCalculator/
 ## Authors
 > 프로필 
 >
-> 이재민 [@깃허브 프로필 페이지](https ://github.com/qwer123toy)
+> 이재민 [@깃허브 프로필 페이지](https://github.com/qwer123toy)
 > 
-
----
